@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+PASS: received A (65)
+UART LOOPBACK TEST PASSED
+$finish called at time : 165025 ns : File "C:/Users/Midtown Computers/FIR_accelator/FIR_accelator.srcs/sim_1/new/tb_uart_loopback.sv" Line 88

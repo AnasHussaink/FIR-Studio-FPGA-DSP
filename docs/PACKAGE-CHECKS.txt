@@ -1,0 +1,9 @@
+Python syntax OK: fir_hardware_test.py
+Python syntax OK: fir_interactive.py
+Python syntax OK: fir_reference.py
+Python syntax OK: uart_loopback_test.py
+Independent arithmetic check: all 213 stored reference rows match
+All relative Markdown asset/document links resolve
+All repository files below 100 MB; original large videos re-encoded
+All 8 RTL files match supplied sources byte-for-byte
+Vivado build, simulation and physical-board tests were NOT rerun during packaging
