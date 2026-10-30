@@ -1,8 +1,11 @@
 # FIR Studio — FPGA DSP Accelerator & Verification Workbench
 
 **Design the filter. Control the hardware. Verify every result.**
+<img width="1672" height="941" alt="fir-studio-thumbnail" src="https://github.com/user-attachments/assets/f4ccaba0-cec9-4a5d-b220-31790df276d4" />
 
-[![Watch FIR Studio in action](docs/images/demo-preview.gif)](demo/FIR-Studio-Final-Showcase.mp4)
+
+https://github.com/user-attachments/assets/b9a251a4-71bb-4f95-832b-35ad6eabf84e
+
 
 **[▶ Watch the full 1:52 project video](demo/FIR-Studio-Final-Showcase.mp4)** · [Smaller web video](demo/FIR-Studio-Web.mp4) · [Build & run](docs/BUILD-AND-RUN.md) · [Results](docs/RESULTS.md) · [Original report](docs/reports/original-project-report.pdf)
 
