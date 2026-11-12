@@ -219,3 +219,7 @@ Fixed-point DSP, signed arithmetic and bit growth; sequential RTL and valid-sign
 [![Repository quality](https://github.com/AnasHussaink/FIR-Studio-FPGA-DSP/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/FIR-Studio-FPGA-DSP/actions/workflows/quality.yml)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
+
+## Technical scope
+
+FPGA digital signal processing with SystemVerilog RTL, Artix-7, programmable FIR filters, fixed-point arithmetic, pipelining, UART, Icarus Verilog simulation, Vivado and a Python/PySide6 verification interface.
