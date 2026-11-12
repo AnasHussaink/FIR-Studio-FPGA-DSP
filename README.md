@@ -212,3 +212,10 @@ The original PDF captures an earlier dashboard and development stage. This READM
 Fixed-point DSP, signed arithmetic and bit growth; sequential RTL and valid-signal alignment; pipeline resource/timing tradeoffs; UART FSMs; independent reference checking; FPGA synthesis and implementation; hardware/software state synchronization; and Python desktop visualization.
 
 **Author: Anas Hussain** · Personal FPGA DSP and verification project.
+
+
+## Development and quality
+
+[![Repository quality](https://github.com/AnasHussaink/FIR-Studio-FPGA-DSP/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/FIR-Studio-FPGA-DSP/actions/workflows/quality.yml)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
